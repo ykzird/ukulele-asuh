@@ -1,0 +1,8 @@
+config:
+  token: "NzY5MjU2NzgyODYxODI4MTM3.GPzOc6.agF-r-Xm6csz9GPH3W9JKjCqa56SOYbZhegANY"              # Your discord bot token
+  shards: 1              # Number of shards to create. 1 works for most bots
+  prefix: "!"           # Prefix to invoke commands with
+  database: "./database" # Database filename
+  game: "eat ass"               # Status message shown when your bot is online
+  trackDurationLimit: 0  # Maximum limit of track duration in minutes. Set to 0 for unlimited
+  announceTracks: false  # Announce the start of a track
